@@ -1,5 +1,37 @@
 h1{
-    columns: #ff6b2f;
-    font-size: 36px;
-    font-style: inherit;
+    color: #226b2f;
+    font-size: 300%;
+    font-style: italic;
+    text-align: center;
+
+}
+h2{
+    color: #005656;
+    font-size: 50%; 
+    text-align: left;
+ 
+}
+#pp{
+    float: bottom;
+}
+#li1{
+    color:#e67bd677;
+    font-size: 30%;
+    text-align: left;
+    list-style-type: disc;
+   
+}
+#li2{
+    color:#2828bf68;
+    font-size: 30%;
+    text-align: left;
+    list-style-type: disc;
+}
+
+img{
+    background-color: #5a7474;
+    border: #226b88 thick dotted;
+    padding: 10px;
+    margin-right: 30px;
+    float: left;
 }
